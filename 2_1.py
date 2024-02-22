@@ -1,0 +1,8 @@
+a = input("Enter your name:")
+print("your entered name:  ", a)
+b = input("enter phone number")
+print("your entered contact number:  ", b)
+c = input("enter birthdate")
+print("your entered birthdate:  ", c)
+d = input("enter email")
+print("your entered  email:  ", d)

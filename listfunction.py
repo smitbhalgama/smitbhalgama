@@ -1,0 +1,23 @@
+a = [1,2,3,4,5,'smit']
+b=[]
+print(a)
+a.append(6)
+print(a)
+b=a.copy()
+print(b)
+c=a.count(4)
+print(c)
+a.extend('smit')
+print(a)
+e=a.index('smit')
+print(e)
+a.insert(2,34)
+print(a)
+n=a.pop(3)
+print(n)
+print(a)
+a.remove(5)
+print(a)
+a.reverse()
+print(a)
+

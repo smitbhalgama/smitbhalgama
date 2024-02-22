@@ -1,0 +1,6 @@
+x1 = input("enter value x1::::")
+x2 = input("enter value x2::::")
+y1 = input("enter value y1::::")
+y2 = input("enter value y2::::")
+slop = int(y2)-int(y1)/int(x2)-int(x1)
+print("slop is::::",slop)
